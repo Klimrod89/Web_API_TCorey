@@ -396,3 +396,63 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Tests
+/Tests/*.log
+/TestResults
+
+# .NET Core
+Bin/
+Obj/
+
+# Visual Studio
+[Bb]in
+[Oo]bj
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nuget.targets
+!.nuget/packages.config
+
+# Windows GUID project files
+*.suo
+*.user
+*.sln.docstates
+
+# ReSharper
+_ReSharper.*
+*.[Rr]e[Ss]harper
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# TeamCity
+_TeamCity*
+
+# Devel Next App
+app
+dist
+node_modules
+
+# Flutter - Obsolete. It was coordinated on pubspec.yaml for eased of use only. Instead people should implement .flutterignore files to see refresh notification performance improved.
+.pub/
+
+# Others
+client-secret.json
+Favicon.*
+Icon.*
