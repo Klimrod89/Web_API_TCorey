@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedWithApi", "GettingStartedWithApi\GettingStartedWithApi.csproj", "{B44D147A-8E34-440D-A935-8EEB11011403}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBlazor", "DemoBlazor\DemoBlazor.csproj", "{C3CDE1A3-8770-4E53-B288-FF5AAF67D8EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B44D147A-8E34-440D-A935-8EEB11011403}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B44D147A-8E34-440D-A935-8EEB11011403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B44D147A-8E34-440D-A935-8EEB11011403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CDE1A3-8770-4E53-B288-FF5AAF67D8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CDE1A3-8770-4E53-B288-FF5AAF67D8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CDE1A3-8770-4E53-B288-FF5AAF67D8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CDE1A3-8770-4E53-B288-FF5AAF67D8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
